@@ -1,0 +1,36 @@
+div{
+  background-color: #BCFFB9;
+}
+h1{  margin-top: 0;
+font-family: 'Sacramento', cursive;
+font-size: 530%;
+  }
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+}
+h3{font-family: 'Montserrat', sans-serif;
+}
+body{margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.profile{
+  position: relative;
+  top: 10px;
+  border-radius: 100%;
+
+}
+.top{
+
+  padding-top: 100px;
+}
+
+.topcloud{
+  position: absolute;
+  left: 50px;
+
+}
+.downcloud{
+  position: absolute;
+}
